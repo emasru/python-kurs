@@ -5,3 +5,6 @@ with open("temperaturer.txt") as fil:
         temperaturer.append(int(linje))
 
 print(temperaturer)
+
+# Hint: vi kan plotte vanlige lister også
+# Hint: len(), range()
